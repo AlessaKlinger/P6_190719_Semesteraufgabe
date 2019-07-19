@@ -1,0 +1,14 @@
+Um diesen Patch zu gestalten, have ich mich anhand einiger Patches mit freundlicher Unterstützung der VVVV Community orientiert.
+
+- Find Nearest Patch
+es nimmt die Skalierungen und wie viele Varianten eines Textes vorhanden sind und checkt ob es innerhalb des Dreieckes vorhanden ist.
+
+- Text Fractal Patch
+
+Parasitic Design
+
+- Hello Font Patch
+
+- Text Image Font Patch
+
+- Typo out of pixel Values
